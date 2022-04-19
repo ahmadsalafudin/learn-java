@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry excluding="stripcode/|stripcode/JSP/login/build/generated/src/" kind="src" path="src"/>
-	<classpathentry excluding="JSP/login/build/generated/src/" kind="src" path="src/stripcode"/>
-	<classpathentry kind="src" path="src/stripcode/JSP/login/build/generated/src"/>
-	<classpathentry kind="output" path="build/classes"/>
-</classpath>
